@@ -2,7 +2,7 @@
 # MY_RPG
 
 This project was made in the context of a MY_RPG at Epitech Mulhouse.\
-It was entirely made in C and using CSFML on Linux.
+It was entirely made in C and using **CSFML ⚠️** on Linux.
 
 ### Description
 Arnald Story is a game of adventure and exploration, where you take on the role of a viking lost on a mysterious island :
